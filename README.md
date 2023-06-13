@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **teng-tt/teng-tt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=teng-tt)](https://github.com/teng-tt/github-readme-stats)
+<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=teng-tt)](https://github.com/teng-tt/github-readme-stats) -->
+
+
+<a href="https://blog.tengminghong.cn/" target="_blank"><img align="right" src="https://github-readme-stats.vercel.app/api?username=teng-tt&show_icons=true&count_private=false&theme=vue-dark" /></a>
+
+### Hi there 👋
+
+I'm a front-end developer
+
+My Website: [blog.tengminghong.cn](https://blog.tengminghong.cn)

@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=teng-tt)](https://github.com/teng-tt/github-readme-stats) -->
 
 
-<a href="https://blog.tengminghong.cn/" target="_blank"><img align="right" src="https://github-readme-stats.vercel.app/api?username=teng-tt&show_icons=true&theme=transparent" /></a>
+<a href="https://blog.tengminghong.cn/" target="_blank"><img align="right" src="https://github-readme-stats.vercel.app/api?username=teng-tt&show_icons=true" /></a>
 
 ### Hi there 👋
 
